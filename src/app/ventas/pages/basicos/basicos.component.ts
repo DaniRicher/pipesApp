@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
 export class BasicosComponent {
   nombreLower:string="daniel";
   nombreUpper:string="DANIEL";
-  nombreCompleto:string="daniel aLvaraDo";
+  nombreCompleto:string="dAniel aLvaraDo";
 
     fecha: Date=new Date()// el dia de hoy
 }
